@@ -1,2 +1,9 @@
 # TCSS143-Programming-Assignment-7-solution
-TCSS143 Programming Assignment 7 solution
+
+Download Here: [TCSS143 Programming Assignment 7 solution](https://jarviscodinghub.com/assignment/tcss143-programming-assignment-7-solution/)
+
+For Custom/Original Work email jarviscodinghub@gmail.com/whatsapp +1(541)423-7793
+
+The purpose of this programming project is to demonstrate the functionality of Linked Lists while reviewing such things as Abstract classes, inheritance, compareTo, file I/O, and various uses of the Scanner class.
+REQUIREMENTS You will submit a single file “Assignment7.zip” through the Programming Assignment 7 Submission link on Canvas. This zipped file will contain 5 classes (files) that make up your solution to this assignment. Also, you will create your own test input file “In7.txt” to use for your own testing. However, do NOT include in7.txt in the zipped file for submission. I will use my own for testing. Make sure these files are not zipped into a folder.
+DETAILS In this assignment, you will create 3 shape classes (Circle, Rectangle, Triangle) that all inherit from a single abstract class called Shape. You are also responsible for creating the driver class “Assignment7.java” (program that tests your classes and described on page 3) which does the following:  reads input data from a file  instantiates various objects of the three shapes based on the input data  stores each in a LinkedList  outputs this list to an output file  sorts a copy of this LinkedList of objects  outputs the sorted version of the list to the output file  outputs the original list to the output file This driver program also needs to ignore errors in the input file that breach the specified input format as described in the Assignment7.java details (described on page 3). 1. Shape.java This is an abstract class that has no fields, 1 abstract method, and one complete method: public abstract class Shape implements Comparable
